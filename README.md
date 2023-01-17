@@ -18,6 +18,8 @@ Note: npm i -D typescript //DevDependency
 4. Objects
 5. Tuples + Enum
 6. Interface
-7. 
+7. Classes
+8. Generics
+9. Narrowing
 ```
 
