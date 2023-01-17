@@ -3,11 +3,11 @@
 let customer:[number,string,boolean]
 
 customer = [1,"ABC",true] //1st-number , 2nd- string, 3rd- boolean
-//customer = ["1","ABC","true"] -> Error
+//customer = ["1","ABC","XYZ"] -> Error
 
 //Using Type
 /* 
-type Customer = [number,string,boolean]
+type Customer = [numbtrueer,string,boolean]
 let customer:Customer =  [1,"ABC",true] 
 */
 

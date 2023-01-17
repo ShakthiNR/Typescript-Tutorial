@@ -36,7 +36,7 @@ type User={
     userName:string,
     userEmail:string,
     isAdmin:boolean,
-    address?:string,
+    address?:string, //Optional
 }
 const users:User[]=[{
     userName:"Shakthi",

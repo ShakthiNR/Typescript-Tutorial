@@ -16,5 +16,8 @@ Note: npm i -D typescript //DevDependency
 2. Union + Arrays
 3. Types
 4. Objects
+5. Tuples + Enum
+6. Interface
+7. 
 ```
 
