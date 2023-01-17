@@ -1,6 +1,10 @@
-# Typescript-Tutorial
+# Typescript-Notes
+```
+   This article was prepared By Myself
+```
 
 ```
+What and Why typescript needed?
 1. Type Safety -[Static Checking]
 2. Just Development Tool(Finally it converted to JS) 
 Note: npm i -D typescript //DevDependency
